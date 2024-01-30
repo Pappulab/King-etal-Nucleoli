@@ -1,0 +1,324 @@
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily	DNARNA
+Q#1 - >sp|Q8WWQ0|PHIP_HUMAN PH-interacting protein OS=Homo sapiens OX=9606 GN=PHIP PE=1 SV=2	specific	99928	1316	1434	9.57041e-71	232.348	cd05496	Bromo_WDR9_II	 - 	cl02556	NO
+Q#1 - >sp|Q8WWQ0|PHIP_HUMAN PH-interacting protein OS=Homo sapiens OX=9606 GN=PHIP PE=1 SV=2	specific	238121	175	495	9.1996e-60	207.573	cd00200	WD40	 - 	cl29593	NO
+Q#1 - >sp|Q8WWQ0|PHIP_HUMAN PH-interacting protein OS=Homo sapiens OX=9606 GN=PHIP PE=1 SV=2	specific	99958	1148	1263	2.05816e-40	145.943	cd05529	Bromo_WDR9_I_like	 - 	cl02556	NO
+Q#2 - >sp|Q03989|ARI5A_HUMAN AT-rich interactive domain-containing protein 5A OS=Homo sapiens OX=9606 GN=ARID5A PE=1 SV=2	specific	350648	61	143	4.0039e-59	191.753	cd16884	ARID_ARID5A	 - 	cl28902	DNA
+Q#3 - >sp|O75398|DEAF1_HUMAN Deformed epidermal autoregulatory factor 1 homolog OS=Homo sapiens OX=9606 GN=DEAF1 PE=1 SV=1	specific	128554	201	273	1.16513e-33	122.453	smart00258	SAND	 - 	cl02536	DNA
+Q#3 - >sp|O75398|DEAF1_HUMAN Deformed epidermal autoregulatory factor 1 homolog OS=Homo sapiens OX=9606 GN=DEAF1 PE=1 SV=1	specific	426410	504	540	2.02596e-12	61.6557	pfam01753	zf-MYND	 - 	cl20224	NO
+Q#4 - >sp|A6NEL2|SWAHB_HUMAN Ankyrin repeat domain-containing protein SOWAHB OS=Homo sapiens OX=9606 GN=SOWAHB PE=1 SV=1	specific	372654	631	690	3.68109e-09	53.0474	pfam13637	Ank_4	 - 	cl37869	NO
+Q#4 - >sp|A6NEL2|SWAHB_HUMAN Ankyrin repeat domain-containing protein SOWAHB OS=Homo sapiens OX=9606 GN=SOWAHB PE=1 SV=1	superfamily	439329	2	78	2.29454e-05	42.8863	cl45559	CSB_WHD superfamily	 - 	 -	NO 
+Q#4 - >sp|A6NEL2|SWAHB_HUMAN Ankyrin repeat domain-containing protein SOWAHB OS=Homo sapiens OX=9606 GN=SOWAHB PE=1 SV=1	superfamily	400932	564	741	0.00117506	41.991	cl38293	Nucleoporin_N superfamily	N	 -	NO 
+Q#5 - >sp|Q5JTH9|RRP12_HUMAN RRP12-like protein OS=Homo sapiens OX=9606 GN=RRP12 PE=1 SV=2	specific	429852	471	671	2.36019e-94	300.98	pfam08161	NUC173	 - 	cl06969	RNA
+Q#6 - >sp|Q68E01|INT3_HUMAN Integrator complex subunit 3 OS=Homo sapiens OX=9606 GN=INTS3 PE=1 SV=1	specific	431123	85	492	0	683.573	pfam10189	Ints3	 - 	cl10883	RNA
+Q#7 - >sp|Q9C0A1|ZFHX2_HUMAN Zinc finger homeobox protein 2 OS=Homo sapiens OX=9606 GN=ZFHX2 PE=1 SV=3	specific	238039	1858	1916	2.48693e-16	74.9724	cd00086	homeodomain	 - 	cl00084	DNA
+Q#7 - >sp|Q9C0A1|ZFHX2_HUMAN Zinc finger homeobox protein 2 OS=Homo sapiens OX=9606 GN=ZFHX2 PE=1 SV=3	specific	425441	2069	2121	2.84907e-16	74.8526	pfam00046	Homeobox	 - 	cl00084	DNA
+Q#7 - >sp|Q9C0A1|ZFHX2_HUMAN Zinc finger homeobox protein 2 OS=Homo sapiens OX=9606 GN=ZFHX2 PE=1 SV=3	specific	425441	1598	1651	3.42709e-15	71.771	pfam00046	Homeobox	 - 	cl00084	DNA
+Q#7 - >sp|Q9C0A1|ZFHX2_HUMAN Zinc finger homeobox protein 2 OS=Homo sapiens OX=9606 GN=ZFHX2 PE=1 SV=3	superfamily	223021	2207	2365	9.69498e-06	51.4777	cl33720	PHA03247 superfamily	N	 -	NO 
+Q#7 - >sp|Q9C0A1|ZFHX2_HUMAN Zinc finger homeobox protein 2 OS=Homo sapiens OX=9606 GN=ZFHX2 PE=1 SV=3	specific	404746	508	532	0.000956631	38.3003	pfam13909	zf-H2C2_5	 - 	cl16469	DNA
+Q#8 - >sp|Q86X53|ERIC1_HUMAN Glutamate-rich protein 1 OS=Homo sapiens OX=9606 GN=ERICH1 PE=1 SV=1	superfamily	227596	193	330	3.2562e-06	49.6123	cl34967	MDN1 superfamily	N	 -	NO 
+Q#9 - >sp|Q9UJV9|DDX41_HUMAN Probable ATP-dependent RNA helicase DDX41 OS=Homo sapiens OX=9606 GN=DDX41 PE=1 SV=2	specific	350709	192	397	4.63832e-148	425.985	cd17951	DEADc_DDX41	 - 	cl28899	NO
+Q#9 - >sp|Q9UJV9|DDX41_HUMAN Probable ATP-dependent RNA helicase DDX41 OS=Homo sapiens OX=9606 GN=DDX41 PE=1 SV=2	specific	223587	153	566	1.97943e-134	403.017	COG0513	SrmB	C	cl33924	BOTH
+Q#10 - >sp|Q9ULD2|MTUS1_HUMAN Microtubule-associated tumor suppressor 1 OS=Homo sapiens OX=9606 GN=MTUS1 PE=1 SV=2	superfamily	274008	919	1215	3.29084e-15	81.2562	cl37069	SMC_prok_B superfamily	N	DNA	 - 
+Q#11 - >sp|O00541|PESC_HUMAN Pescadillo homolog OS=Homo sapiens OX=9606 GN=PES1 PE=1 SV=1	specific	429087	9	278	1.06071e-166	474.808	pfam06732	Pescadillo_N	 - 	cl37745	RNA
+Q#11 - >sp|O00541|PESC_HUMAN Pescadillo homolog OS=Homo sapiens OX=9606 GN=PES1 PE=1 SV=1	superfamily	227492	6	584	1.057e-151	448.755	cl34924	NOP7 superfamily	NO	 - 	 - 
+Q#12 - >sp|Q15021|CND1_HUMAN Condensin complex subunit 1 OS=Homo sapiens OX=9606 GN=NCAPD2 PE=1 SV=3	superfamily	227429	60	1245	1.00952e-108	371.62	cl34900	COG5098 superfamily	 - 	 -	CHROMOSOME 
+Q#13 - >sp|Q9NW13|RBM28_HUMAN RNA-binding protein 28 OS=Homo sapiens OX=9606 GN=RBM28 PE=1 SV=3	specific	409850	487	581	2.37917e-49	168.162	cd12416	RRM4_RBM28_like	 - 	cl17169	RNA
+Q#13 - >sp|Q9NW13|RBM28_HUMAN RNA-binding protein 28 OS=Homo sapiens OX=9606 GN=RBM28 PE=1 SV=3	specific	409848	115	190	1.69764e-43	151.165	cd12414	RRM2_RBM28_like	 - 	cl17169	RNA
+Q#13 - >sp|Q9NW13|RBM28_HUMAN RNA-binding protein 28 OS=Homo sapiens OX=9606 GN=RBM28 PE=1 SV=3	specific	409847	5	81	1.22618e-35	129.249	cd12413	RRM1_RBM28_like	 - 	cl17169	RNA
+Q#13 - >sp|Q9NW13|RBM28_HUMAN RNA-binding protein 28 OS=Homo sapiens OX=9606 GN=RBM28 PE=1 SV=3	specific	409849	335	417	4.06225e-34	125.02	cd12415	RRM3_RBM28_like	 - 	cl17169	RNA
+Q#13 - >sp|Q9NW13|RBM28_HUMAN RNA-binding protein 28 OS=Homo sapiens OX=9606 GN=RBM28 PE=1 SV=3	superfamily	130689	126	721	6.38182e-08	55.9686	cl31127	PABP-1234 superfamily	 - 	 -	NO 
+Q#14 - >sp|O14974|MYPT1_HUMAN Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens OX=9606 GN=PPP1R12A PE=1 SV=1	specific	435003	931	1029	8.41683e-45	156.676	pfam15898	PRKG1_interact	 - 	cl23745	NO
+Q#14 - >sp|O14974|MYPT1_HUMAN Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens OX=9606 GN=PPP1R12A PE=1 SV=1	superfamily	222980	43	272	2.98244e-21	98.1731	cl33707	PHA03095 superfamily	C	 -	NO
+Q#14 - >sp|O14974|MYPT1_HUMAN Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens OX=9606 GN=PPP1R12A PE=1 SV=1	specific	412019	658	714	4.19191e-20	84.5725	cd21944	IPD_MYPT1	 - 	cl40436
+Q#15 - >sp|P11388|TOP2A_HUMAN DNA topoisomerase 2-alpha OS=Homo sapiens OX=9606 GN=TOP2A PE=1 SV=3	specific	240271	25	1497	0	1700.24	PTZ00108	PTZ00108	 - 	cl36510
+Q#16 - >sp|A6NIK2|LR10B_HUMAN Leucine-rich repeat-containing protein 10B OS=Homo sapiens OX=9606 GN=LRRC10B PE=4 SV=2	specific	227223	24	231	1.80017e-12	66.9154	COG4886	LRR	NC	cl34836
+Q#17 - >sp|Q13409|DC1I2_HUMAN Cytoplasmic dynein 1 intermediate chain 2 OS=Homo sapiens OX=9606 GN=DYNC1I2 PE=1 SV=3	specific	225201	329	599	3.58103e-17	84.7551	COG2319	WD40	C	cl43672
+Q#17 - >sp|Q13409|DC1I2_HUMAN Cytoplasmic dynein 1 intermediate chain 2 OS=Homo sapiens OX=9606 GN=DYNC1I2 PE=1 SV=3	specific	431925	133	163	3.2338e-14	66.4067	pfam11540	Dynein_IC2	 - 	cl13056
+Q#18 - >sp|Q8N9T8|KRI1_HUMAN Protein KRI1 homolog OS=Homo sapiens OX=9606 GN=KRI1 PE=1 SV=3	specific	432888	498	586	1.76708e-41	145.712	pfam12936	Kri1_C	 - 	cl15178
+Q#18 - >sp|Q8N9T8|KRI1_HUMAN Protein KRI1 homolog OS=Homo sapiens OX=9606 GN=KRI1 PE=1 SV=3	specific	428351	322	432	2.16666e-14	69.2172	pfam05178	Kri1	 - 	cl04969
+Q#19 - >sp|Q9C0K0|BC11B_HUMAN B-cell lymphoma/leukemia 11B OS=Homo sapiens OX=9606 GN=BCL11B PE=1 SV=1	specific	395048	797	818	8.05656e-05	40.3613	pfam00096	zf-C2H2	 - 	cl23491
+Q#19 - >sp|Q9C0K0|BC11B_HUMAN B-cell lymphoma/leukemia 11B OS=Homo sapiens OX=9606 GN=BCL11B PE=1 SV=1	specific	433230	810	835	0.000213348	38.8763	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#19 - >sp|Q9C0K0|BC11B_HUMAN B-cell lymphoma/leukemia 11B OS=Homo sapiens OX=9606 GN=BCL11B PE=1 SV=1	specific	433230	441	466	0.000254556	38.8763	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#19 - >sp|Q9C0K0|BC11B_HUMAN B-cell lymphoma/leukemia 11B OS=Homo sapiens OX=9606 GN=BCL11B PE=1 SV=1	specific	395048	428	449	0.000544842	37.6649	pfam00096	zf-C2H2	 - 	cl23491
+Q#20 - >sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	specific	425560	193	286	1.08009e-29	113.445	pfam00254	FKBP_C	 - 	cl19519
+Q#20 - >sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	superfamily	224117	563	902	3.08392e-20	97.4775	cl34174	Smc superfamily	N	 - 
+Q#20 - >sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	superfamily	223021	951	1164	8.78605e-06	50.3221	cl33720	PHA03247 superfamily	N	 - 
+Q#20 - >sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	superfamily	236669	397	491	0.00186403	42.7647	cl35903	PRK10263 superfamily	NC	 - 
+Q#20 - >sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	superfamily	450165	70	168	0.00189847	38.8761	cl17171	PH-like superfamily	 - 	 - 
+Q#21 - >sp|O00566|MPP10_HUMAN U3 small nucleolar ribonucleoprotein protein MPP10 OS=Homo sapiens OX=9606 GN=MPHOSPH10 PE=1 SV=2	specific	427647	25	573	1.154e-178	518.747	pfam04006	Mpp10	 - 	cl27202
+Q#22 - >sp|P29692|EF1D_HUMAN Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=5	specific	425844	198	281	1.19651e-46	151.04	pfam00736	EF1_GNE	 - 	cl00194
+Q#22 - >sp|P29692|EF1D_HUMAN Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=5	specific	431375	159	186	1.04572e-08	49.8333	pfam10587	EF-1_beta_acid	 - 	cl11209
+Q#23 - >sp|Q9Y5R5|DMRT2_HUMAN Doublesex- and mab-3-related transcription factor 2 OS=Homo sapiens OX=9606 GN=DMRT2 PE=1 SV=2	specific	425850	119	165	3.52627e-30	111.973	pfam00751	DM	 - 	cl02557
+Q#24 - >sp|A7KAX9|RHG32_HUMAN Rho GTPase-activating protein 32 OS=Homo sapiens OX=9606 GN=ARHGAP32 PE=1 SV=1	specific	239849	368	562	3.21312e-128	399.955	cd04384	RhoGAP_CdGAP	 - 	cl02570
+Q#24 - >sp|A7KAX9|RHG32_HUMAN Rho GTPase-activating protein 32 OS=Homo sapiens OX=9606 GN=ARHGAP32 PE=1 SV=1	specific	132831	127	241	9.10582e-81	261.068	cd07298	PX_RICS	 - 	cl02563
+Q#24 - >sp|A7KAX9|RHG32_HUMAN Rho GTPase-activating protein 32 OS=Homo sapiens OX=9606 GN=ARHGAP32 PE=1 SV=1	specific	212769	263	316	2.62572e-32	120.247	cd11835	SH3_ARHGAP32_33	 - 	cl17036
+Q#25 - >sp|Q9P281|BAHC1_HUMAN BAH and coiled-coil domain-containing protein 1 OS=Homo sapiens OX=9606 GN=BAHCC1 PE=1 SV=4	specific	240065	2512	2631	8.20863e-68	224.588	cd04714	BAH_BAHCC1	 - 	cl02608
+Q#25 - >sp|Q9P281|BAHC1_HUMAN BAH and coiled-coil domain-containing protein 1 OS=Homo sapiens OX=9606 GN=BAHCC1 PE=1 SV=4	specific	410541	1969	2037	4.63832e-40	143.022	cd20470	Tudor_BAHCC1	 - 	cl02573
+Q#25 - >sp|Q9P281|BAHC1_HUMAN BAH and coiled-coil domain-containing protein 1 OS=Homo sapiens OX=9606 GN=BAHCC1 PE=1 SV=4	superfamily	223021	850	1253	0.00418271	42.6181	cl33720	PHA03247 superfamily	N	 - 
+Q#26 - >sp|P06748|NPM_HUMAN Nucleophosmin OS=Homo sapiens OX=9606 GN=NPM1 PE=1 SV=2	specific	427119	18	117	6.98833e-58	180.87	pfam03066	Nucleoplasmin	 - 	cl03870
+Q#26 - >sp|P06748|NPM_HUMAN Nucleophosmin OS=Homo sapiens OX=9606 GN=NPM1 PE=1 SV=2	specific	435252	245	293	2.23628e-29	105.929	pfam16276	NPM1-C	 - 	cl24749
+Q#27 - >sp|Q9NSI6|BRWD1_HUMAN Bromodomain and WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=BRWD1 PE=1 SV=4	specific	99928	1313	1431	4.88228e-74	241.978	cd05496	Bromo_WDR9_II	 - 	cl02556	NO
+Q#27 - >sp|Q9NSI6|BRWD1_HUMAN Bromodomain and WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=BRWD1 PE=1 SV=4	specific	238121	178	497	6.25515e-59	205.647	cd00200	WD40	 - 	cl29593
+Q#27 - >sp|Q9NSI6|BRWD1_HUMAN Bromodomain and WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=BRWD1 PE=1 SV=4	specific	99958	1149	1264	4.77634e-46	162.121	cd05529	Bromo_WDR9_I_like	 - 	cl02556
+Q#28 - >sp|P20042|IF2B_HUMAN Eukaryotic translation initiation factor 2 subunit 2 OS=Homo sapiens OX=9606 GN=EIF2S2 PE=1 SV=2	specific	214764	199	308	1.07806e-61	192.077	smart00653	eIF2B_5	 - 	cl17014
+Q#29 - >sp|Q7Z401|MYCPP_HUMAN C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=2	specific	426618	308	492	9.28529e-74	243.742	pfam02141	DENN	 - 	cl11519
+Q#29 - >sp|Q7Z401|MYCPP_HUMAN C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=2	specific	129037	559	632	2.55813e-22	91.9677	smart00801	dDENN	 - 	cl04084
+Q#29 - >sp|Q7Z401|MYCPP_HUMAN C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=2	specific	214824	194	276	1.47753e-19	84.6936	smart00800	uDENN	 - 	cl04085
+Q#29 - >sp|Q7Z401|MYCPP_HUMAN C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=2	superfamily	432946	808	848	5.14091e-05	42.3509	cl38385	PPR_2 superfamily	 - 	 - 
+Q#30 - >sp|Q9GZR7|DDX24_HUMAN ATP-dependent RNA helicase DDX24 OS=Homo sapiens OX=9606 GN=DDX24 PE=1 SV=1	specific	350704	203	552	6.37351e-122	367.72	cd17946	DEADc_DDX24	 - 	cl28899
+Q#30 - >sp|Q9GZR7|DDX24_HUMAN ATP-dependent RNA helicase DDX24 OS=Homo sapiens OX=9606 GN=DDX24 PE=1 SV=1	specific	223587	191	783	1.28354e-74	252.789	COG0513	SrmB	 - 	cl33924
+Q#31 - >sp|Q86YW9|MD12L_HUMAN Mediator of RNA polymerase II transcription subunit 12-like protein OS=Homo sapiens OX=9606 GN=MED12L PE=1 SV=2	specific	432360	283	730	0	717.657	pfam12145	Med12-LCEWAV	 - 	cl13566
+Q#31 - >sp|Q86YW9|MD12L_HUMAN Mediator of RNA polymerase II transcription subunit 12-like protein OS=Homo sapiens OX=9606 GN=MED12L PE=1 SV=2	specific	432359	1802	2019	6.25634e-76	251.303	pfam12144	Med12-PQL	 - 	cl25891
+Q#31 - >sp|Q86YW9|MD12L_HUMAN Mediator of RNA polymerase II transcription subunit 12-like protein OS=Homo sapiens OX=9606 GN=MED12L PE=1 SV=2	specific	430647	106	161	1.83757e-17	78.3361	pfam09497	Med12	 - 	cl09730
+Q#32 - >sp|Q9NU22|MDN1_HUMAN Midasin OS=Homo sapiens OX=9606 GN=MDN1 PE=1 SV=2	superfamily	227596	206	2313	0	1658.21	cl34967	MDN1 superfamily	C	 - 
+Q#32 - >sp|Q9NU22|MDN1_HUMAN Midasin OS=Homo sapiens OX=9606 GN=MDN1 PE=1 SV=2	superfamily	227596	3713	5593	1.09016e-148	525.719	cl34967	MDN1 superfamily	N	 - 
+Q#33 - >sp|Q86SE8|NPM2_HUMAN Nucleoplasmin-2 OS=Homo sapiens OX=9606 GN=NPM2 PE=1 SV=1	specific	427119	18	121	8.0981e-50	157.373	pfam03066	Nucleoplasmin	 - 	cl03870
+Q#34 - >sp|Q9Y2X3|NOP58_HUMAN Nucleolar protein 58 OS=Homo sapiens OX=9606 GN=NOP58 PE=1 SV=1	specific	224415	43	401	3.49379e-114	343.612	COG1498	SIK1	 - 	cl34282
+Q#34 - >sp|Q9Y2X3|NOP58_HUMAN Nucleolar protein 58 OS=Homo sapiens OX=9606 GN=NOP58 PE=1 SV=1	specific	429848	2	66	2.85398e-22	90.2161	pfam08156	NOP5NT	 - 	cl06964
+Q#35 - >sp|Q14978|NOLC1_HUMAN Nucleolar and coiled-body phosphoprotein 1 OS=Homo sapiens OX=9606 GN=NOLC1 PE=1 SV=2	specific	428261	624	696	1.27585e-29	111.85	pfam05022	SRP40_C	 - 	cl04891
+Q#36 - >sp|Q9BQ67|GRWD1_HUMAN Glutamate-rich WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=GRWD1 PE=1 SV=1	superfamily	453027	204	384	1.4385e-29	116.666	cl29593	WD40 superfamily	C	 - 
+Q#36 - >sp|Q9BQ67|GRWD1_HUMAN Glutamate-rich WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=GRWD1 PE=1 SV=1	specific	432437	44	112	6.02068e-08	49.5077	pfam12265	CAF1C_H4-bd	 - 	cl13671
+Q#37 - >sp|O00401|WASL_HUMAN Actin nucleation-promoting factor WASL OS=Homo sapiens OX=9606 GN=WASL PE=1 SV=2	specific	269916	40	138	2.97031e-51	169.631	cd01205	EVH1_WASP-like	 - 	cl17171
+Q#37 - >sp|O00401|WASL_HUMAN Actin nucleation-promoting factor WASL OS=Homo sapiens OX=9606 GN=WASL PE=1 SV=2	specific	395634	202	259	2.67002e-18	78.5077	pfam00786	PBD	 - 	cl00113
+Q#37 - >sp|O00401|WASL_HUMAN Actin nucleation-promoting factor WASL OS=Homo sapiens OX=9606 GN=WASL PE=1 SV=2	specific	409217	402	428	7.24351e-11	56.87	cd22074	WH2_N-WASP_r1	 - 	cl41728
+Q#37 - >sp|O00401|WASL_HUMAN Actin nucleation-promoting factor WASL OS=Homo sapiens OX=9606 GN=WASL PE=1 SV=2	specific	409218	429	453	6.34472e-10	54.0017	cd22075	WH2_hN-WASP_r2_like	 - 	cl41728
+Q#38 - >sp|Q9Y4E1|WAC2C_HUMAN WASH complex subunit 2C OS=Homo sapiens OX=9606 GN=WASHC2C PE=1 SV=4	specific	434577	937	1059	3.49516e-65	216.607	pfam15255	CAP-ZIP_m	 - 	cl21113
+Q#38 - >sp|Q9Y4E1|WAC2C_HUMAN WASH complex subunit 2C OS=Homo sapiens OX=9606 GN=WASHC2C PE=1 SV=4	superfamily	240271	589	816	0.00348057	41.9556	cl36510	PTZ00108 superfamily	N	 - 
+Q#39 - >sp|Q86VZ6|JAZF1_HUMAN Juxtaposed with another zinc finger protein 1 OS=Homo sapiens OX=9606 GN=JAZF1 PE=1 SV=2	superfamily	227516	169	230	8.61021e-16	75.9099	cl25788	SFP1 superfamily	N	 - 
+Q#40 - >sp|O14787|TNPO2_HUMAN Transportin-2 OS=Homo sapiens OX=9606 GN=TNPO2 PE=1 SV=3	superfamily	227540	22	756	4.06738e-20	96.161	cl27231	KAP95 superfamily	 - 	 - 
+Q#41 - >sp|Q6P158|DHX57_HUMAN Putative ATP-dependent RNA helicase DHX57 OS=Homo sapiens OX=9606 GN=DHX57 PE=1 SV=2	superfamily	224557	500	1296	1.5926e-170	530.74	cl34328	HrpA superfamily	 - 	 - 
+Q#41 - >sp|Q6P158|DHX57_HUMAN Putative ATP-dependent RNA helicase DHX57 OS=Homo sapiens OX=9606 GN=DHX57 PE=1 SV=2	specific	270502	181	218	2.46572e-17	76.5801	cd14317	UBA_DHX57	 - 	cl21463
+Q#41 - >sp|Q6P158|DHX57_HUMAN Putative ATP-dependent RNA helicase DHX57 OS=Homo sapiens OX=9606 GN=DHX57 PE=1 SV=2	specific	399058	322	419	6.21937e-07	49.2445	pfam05773	RWD	 - 	cl02687
+Q#41 - >sp|Q6P158|DHX57_HUMAN Putative ATP-dependent RNA helicase DHX57 OS=Homo sapiens OX=9606 GN=DHX57 PE=1 SV=2	specific	436426	305	323	6.90559e-07	46.6386	pfam18345	zf_CCCH_4	 - 	cl39030
+Q#42 - >sp|Q08999|RBL2_HUMAN Retinoblastoma-like protein 2 OS=Homo sapiens OX=9606 GN=RBL2 PE=1 SV=3	specific	410309	835	1024	7.72978e-133	401.198	cd20606	CYCLIN_RBL2	 - 	cl40454
+Q#42 - >sp|Q08999|RBL2_HUMAN Retinoblastoma-like protein 2 OS=Homo sapiens OX=9606 GN=RBL2 PE=1 SV=3	specific	426479	417	609	1.52563e-98	310.275	pfam01858	RB_A	 - 	cl03387
+Q#42 - >sp|Q08999|RBL2_HUMAN Retinoblastoma-like protein 2 OS=Homo sapiens OX=9606 GN=RBL2 PE=1 SV=3	specific	432200	104	239	1.46677e-59	200.118	pfam11934	DUF3452	 - 	cl13385
+Q#42 - >sp|Q08999|RBL2_HUMAN Retinoblastoma-like protein 2 OS=Homo sapiens OX=9606 GN=RBL2 PE=1 SV=3	superfamily	425404	670	810	6.92484e-05	46.5576	cl41773	SP1-4_N superfamily	C	 - 
+Q#42 - >sp|Q08999|RBL2_HUMAN Retinoblastoma-like protein 2 OS=Homo sapiens OX=9606 GN=RBL2 PE=1 SV=3	specific	410207	44	134	0.0013519	38.5457	cd00043	CYCLIN_SF	 - 	cl40454
+Q#43 - >sp|Q96JM7|LMBL3_HUMAN Lethal(3)malignant brain tumor-like protein 3 OS=Homo sapiens OX=9606 GN=L3MBTL3 PE=1 SV=2	specific	439122	259	359	4.9699e-73	232.505	cd20132	MBT_L3MBTL3_rpt1	 - 	cl45897
+Q#43 - >sp|Q96JM7|LMBL3_HUMAN Lethal(3)malignant brain tumor-like protein 3 OS=Homo sapiens OX=9606 GN=L3MBTL3 PE=1 SV=2	specific	439125	366	458	6.09695e-65	210.815	cd20135	MBT_L3MBTL3_rpt2	 - 	cl45897
+Q#43 - >sp|Q96JM7|LMBL3_HUMAN Lethal(3)malignant brain tumor-like protein 3 OS=Homo sapiens OX=9606 GN=L3MBTL3 PE=1 SV=2	specific	439128	467	544	4.30042e-54	180.892	cd20138	MBT_L3MBTL3_rpt3	 - 	cl45897
+Q#43 - >sp|Q96JM7|LMBL3_HUMAN Lethal(3)malignant brain tumor-like protein 3 OS=Homo sapiens OX=9606 GN=L3MBTL3 PE=1 SV=2	specific	188981	705	770	1.57542e-40	142.415	cd09582	SAM_Scm-like-3MBT3,4	 - 	cl15755
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	434287	479	562	2.86911e-42	147.994	pfam14887	HMG_box_5	 - 	cl00082	NO
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	438816	297	379	9.2172e-39	138.356	cd22000	HMG-box_UBF1_rpt3	 - 	cl00082	DNA
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	438814	109	185	4.98692e-36	130.136	cd21998	HMG-box_UBF1_rpt1-like	 - 	cl00082	DNA
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	438819	565	650	1.43192e-34	126.26	cd22003	HMG-box_UBF1_rpt6-like	 - 	cl00082	DNA
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	438815	196	270	3.03534e-21	88.0795	cd21999	HMG-box_UBF1_rpt2	 - 	cl00082	DNA
+Q#44 - >sp|P17480|UBF1_HUMAN Nucleolar transcription factor 1 OS=Homo sapiens OX=9606 GN=UBTF PE=1 SV=1	specific	438817	405	470	3.77038e-19	81.9594	cd22001	HMG-box_UBF1_rpt4	 - 	cl00082	DNA
+Q#45 - >sp|P80192|M3K9_HUMAN Mitogen-activated protein kinase kinase kinase 9 OS=Homo sapiens OX=9606 GN=MAP3K9 PE=1 SV=3	specific	271047	137	406	0	607.81	cd14145	STKc_MLK1	 - 	cl21453
+Q#45 - >sp|P80192|M3K9_HUMAN Mitogen-activated protein kinase kinase kinase 9 OS=Homo sapiens OX=9606 GN=MAP3K9 PE=1 SV=3	specific	212992	56	113	1.8799e-37	134.123	cd12059	SH3_MLK1-3	 - 	cl17036
+Q#45 - >sp|P80192|M3K9_HUMAN Mitogen-activated protein kinase kinase kinase 9 OS=Homo sapiens OX=9606 GN=MAP3K9 PE=1 SV=3	superfamily	225288	427	509	9.13452e-05	46.6212	cl43687	COG2433 superfamily	NC	 - 
+Q#45 - >sp|P80192|M3K9_HUMAN Mitogen-activated protein kinase kinase kinase 9 OS=Homo sapiens OX=9606 GN=MAP3K9 PE=1 SV=3	superfamily	223039	903	1062	0.00437427	41.3101	cl33723	PHA03307 superfamily	NC	 - 
+Q#46 - >sp|O15347|HMGB3_HUMAN High mobility group protein B3 OS=Homo sapiens OX=9606 GN=HMGB3 PE=1 SV=4	specific	438795	91	161	7.8671e-42	135.617	cd21979	HMG-box_HMGB_rpt2	 - 	cl00082
+Q#46 - >sp|O15347|HMGB3_HUMAN High mobility group protein B3 OS=Homo sapiens OX=9606 GN=HMGB3 PE=1 SV=4	specific	438794	13	76	6.28113e-35	117.787	cd21978	HMG-box_HMGB_rpt1	 - 	cl00082
+Q#47 - >sp|Q9Y5Q9|TF3C3_HUMAN General transcription factor 3C polypeptide 3 OS=Homo sapiens OX=9606 GN=GTF3C3 PE=1 SV=1	superfamily	274350	145	514	1.70639e-08	58.5564	cl37187	PEP_TPR_lipo superfamily	N	 - 
+Q#47 - >sp|Q9Y5Q9|TF3C3_HUMAN General transcription factor 3C polypeptide 3 OS=Homo sapiens OX=9606 GN=GTF3C3 PE=1 SV=1	specific	197478	812	842	0.00233704	36.2704	smart00028	TPR	 - 	cl22897
+Q#48 - >sp|P04198|MYCN_HUMAN N-myc proto-oncogene protein OS=Homo sapiens OX=9606 GN=MYCN PE=1 SV=2	specific	426019	10	372	4.91993e-148	425.331	pfam01056	Myc_N	 - 	cl03082
+Q#48 - >sp|P04198|MYCN_HUMAN N-myc proto-oncogene protein OS=Homo sapiens OX=9606 GN=MYCN PE=1 SV=2	specific	381462	378	464	1.02768e-59	190.114	cd11456	bHLHzip_N-Myc_like	 - 	cl00081
+Q#49 - >sp|Q8WYN3|CSRN3_HUMAN Cysteine/serine-rich nuclear protein 3 OS=Homo sapiens OX=9606 GN=CSRNP3 PE=2 SV=1	specific	435075	61	279	1.78462e-140	405.91	pfam16019	CSRNP_N	 - 	cl24551
+Q#50 - >sp|Q8WY54|PPM1E_HUMAN Protein phosphatase 1E OS=Homo sapiens OX=9606 GN=PPM1E PE=1 SV=3	specific	238083	230	488	5.13447e-84	266.885	cd00143	PP2Cc	 - 	cl00120
+Q#51 - >sp|Q6ZU67|BEND4_HUMAN BEN domain-containing protein 4 OS=Homo sapiens OX=9606 GN=BEND4 PE=2 SV=3	specific	214981	412	490	5.19549e-13	64.3073	smart01025	BEN	 - 	cl11158
+Q#51 - >sp|Q6ZU67|BEND4_HUMAN BEN domain-containing protein 4 OS=Homo sapiens OX=9606 GN=BEND4 PE=2 SV=3	specific	197664	325	362	0.0017112	36.7732	smart00338	BRLZ	N	cl21462
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	433230	946	971	4.23926e-07	46.9655	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	433230	254	277	7.85384e-07	46.1951	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	395048	240	262	3.90824e-06	44.2133	pfam00096	zf-C2H2	 - 	cl23491
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	395048	932	954	3.30358e-05	41.5169	pfam00096	zf-C2H2	 - 	cl23491
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	433230	918	943	9.64314e-05	40.4171	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	superfamily	444687	581	629	0.000546612	39.0291	cl00084	homeodomain superfamily	 - 	 - 
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	superfamily	227596	27	197	0.000571511	44.2195	cl34967	MDN1 superfamily	N	 - 
+Q#52 - >sp|P37275|ZEB1_HUMAN Zinc finger E-box-binding homeobox 1 OS=Homo sapiens OX=9606 GN=ZEB1 PE=1 SV=2	specific	395048	200	222	0.00458017	35.3537	pfam00096	zf-C2H2	 - 	cl23491
+Q#53 - >sp|P50219|MNX1_HUMAN Motor neuron and pancreas homeobox protein 1 OS=Homo sapiens OX=9606 GN=MNX1 PE=1 SV=3	specific	425441	244	297	1.62939e-26	100.276	pfam00046	Homeobox	 - 	cl00084
+Q#54 - >sp|Q15269|PWP2_HUMAN Periodic tryptophan protein 2 homolog OS=Homo sapiens OX=9606 GN=PWP2 PE=1 SV=2	specific	238121	322	629	1.89136e-49	176.757	cd00200	WD40	 - 	cl29593
+Q#54 - >sp|Q15269|PWP2_HUMAN Periodic tryptophan protein 2 homolog OS=Homo sapiens OX=9606 GN=PWP2 PE=1 SV=2	specific	427644	770	875	4.74552e-25	100.308	pfam04003	Utp12	 - 	cl23538
+Q#54 - >sp|Q15269|PWP2_HUMAN Periodic tryptophan protein 2 homolog OS=Homo sapiens OX=9606 GN=PWP2 PE=1 SV=2	superfamily	453027	96	443	2.45208e-22	98.176	cl29593	WD40 superfamily	 - 	 - 
+Q#55 - >sp|Q6PJT7|ZC3HE_HUMAN Zinc finger CCCH domain-containing protein 14 OS=Homo sapiens OX=9606 GN=ZC3H14 PE=1 SV=1	specific	434069	601	618	0.000111595	39.4272	pfam14608	zf-CCCH_2	 - 	cl20584
+Q#55 - >sp|Q6PJT7|ZC3HE_HUMAN Zinc finger CCCH domain-containing protein 14 OS=Homo sapiens OX=9606 GN=ZC3H14 PE=1 SV=1	specific	434069	621	639	0.000375662	37.8864	pfam14608	zf-CCCH_2	 - 	cl20584
+Q#55 - >sp|Q6PJT7|ZC3HE_HUMAN Zinc finger CCCH domain-containing protein 14 OS=Homo sapiens OX=9606 GN=ZC3H14 PE=1 SV=1	specific	434069	681	698	0.0034704	35.19	pfam14608	zf-CCCH_2	 - 	cl20584
+Q#56 - >sp|P46087|NOP2_HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens OX=9606 GN=NOP2 PE=1 SV=2	specific	223222	257	586	5.79673e-117	358.241	COG0144	RsmB	 - 	cl33775
+Q#57 - >sp|Q9ULT8|HECD1_HUMAN E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=4	specific	238033	2131	2608	3.33732e-119	381.528	cd00078	HECTc	 - 	cl27008
+Q#57 - >sp|Q9ULT8|HECD1_HUMAN E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=4	specific	439138	1893	1958	1.14594e-37	136.258	cd21062	BTHB_HectD1	 - 	cl39748
+Q#57 - >sp|Q9ULT8|HECD1_HUMAN E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=4	specific	400199	1107	1240	8.97222e-33	124.71	pfam07738	Sad1_UNC	 - 	cl23730
+Q#57 - >sp|Q9ULT8|HECD1_HUMAN E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=4	specific	429078	1277	1335	2.28166e-24	98.0341	pfam06701	MIB_HERC2	 - 	cl05972
+Q#57 - >sp|Q9ULT8|HECD1_HUMAN E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=4	specific	432791	366	457	2.31823e-12	64.7583	pfam12796	Ank_2	 - 	cl39094
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	specific	433230	296	319	6.49638e-06	43.8839	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	specific	395048	282	304	2.52987e-05	41.9021	pfam00096	zf-C2H2	 - 	cl23491
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	specific	433230	1041	1066	3.27225e-05	41.5727	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	specific	433230	1013	1038	0.000204749	39.6467	pfam13465	zf-H2C2_2	 - 	cl22375
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	specific	395048	241	263	0.00731947	34.9685	pfam00096	zf-C2H2	 - 	cl23491
+Q#58 - >sp|O60315|ZEB2_HUMAN Zinc finger E-box-binding homeobox 2 OS=Homo sapiens OX=9606 GN=ZEB2 PE=1 SV=1	superfamily	428539	209	263	0.00808269	35.7395	cl05267	zf-Di19 superfamily	 - 	 - 
+Q#60 - >sp|Q9UK76|JUPI1_HUMAN Jupiter microtubule associated homolog 1 OS=Homo sapiens OX=9606 GN=JPT1 PE=1 SV=3	superfamily	293659	1	58	8.90776e-06	43.4981	cl25291	JUPITER superfamily	C	 - 
+Q#61 - >sp|P52954|LBX1_HUMAN Transcription factor LBX1 OS=Homo sapiens OX=9606 GN=LBX1 PE=1 SV=2	specific	425441	128	181	3.47685e-24	92.1866	pfam00046	Homeobox	 - 	cl00084
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	specific	432301	422	620	4.39286e-81	263.31	pfam12064	DUF3544	 - 	cl13494
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	specific	99940	151	249	7.53084e-59	196.835	cd05508	Bromo_RACK7	 - 	cl02556
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	specific	438988	272	362	1.92748e-56	189.699	cd20160	PWWP_PRKCBP1	 - 	cl02554
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	specific	277013	90	130	2.1907e-23	93.5452	cd15538	PHD_PRKCBP1	 - 	cl22851
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	specific	426410	1028	1062	3.69218e-07	47.4033	pfam01753	zf-MYND	 - 	cl20224
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	superfamily	227367	4	133	3.91119e-06	49.9356	cl34876	TNG2 superfamily	N	 - 
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	superfamily	349951	955	1024	0.000536882	41.2691	cl38961	ATP-synt_Fo_b superfamily	N	 - 
+Q#62 - >sp|Q9ULU4|ZMYD8_HUMAN MYND-type zinc finger-containing chromatin reader ZMYND8 OS=Homo sapiens OX=9606 GN=ZMYND8 PE=1 SV=2	superfamily	310411	602	760	0.00184685	42.2441	cl37738	TFIIF_alpha superfamily	NC	 - 
+Q#63 - >sp|O60336|MABP1_HUMAN Mitogen-activated protein kinase-binding protein 1 OS=Homo sapiens OX=9606 GN=MAPKBP1 PE=1 SV=4	superfamily	453027	83	427	5.95969e-32	127.066	cl29593	WD40 superfamily	 - 	 - 
+Q#63 - >sp|O60336|MABP1_HUMAN Mitogen-activated protein kinase-binding protein 1 OS=Homo sapiens OX=9606 GN=MAPKBP1 PE=1 SV=4	superfamily	453027	349	731	9.41783e-32	126.296	cl29593	WD40 superfamily	 - 	 - 
+Q#63 - >sp|O60336|MABP1_HUMAN Mitogen-activated protein kinase-binding protein 1 OS=Homo sapiens OX=9606 GN=MAPKBP1 PE=1 SV=4	superfamily	223021	759	1189	4.77187e-05	48.3961	cl33720	PHA03247 superfamily	N	 - 
+Q#63 - >sp|O60336|MABP1_HUMAN Mitogen-activated protein kinase-binding protein 1 OS=Homo sapiens OX=9606 GN=MAPKBP1 PE=1 SV=4	superfamily	223021	1125	1374	0.00883455	40.6921	cl33720	PHA03247 superfamily	N	 - 
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	350813	736	967	3.17874e-161	492.989	cd18055	DEXHc_CHD3	 - 	cl28899
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	superfamily	215601	719	1273	2.73963e-158	515.505	cl33647	PLN03142 superfamily	C	 - 
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	429820	1737	1882	9.39999e-97	307.833	pfam08074	CHDCT2	 - 	cl06903
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	428953	1378	1517	4.93119e-81	262.666	pfam06461	DUF1086	 - 	cl05788
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	349314	505	583	2.92568e-42	149.41	cd18667	CD1_tandem_CHD3-4_like	 - 	cl28914
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	349309	628	682	1.78847e-32	120.447	cd18662	CD2_tandem_CHD3-4_like	 - 	cl28914
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	277006	381	423	2.77538e-30	113.851	cd15531	PHD1_CHD_II	 - 	cl22851
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	277007	458	500	1.01412e-27	106.596	cd15532	PHD2_CHD_II	 - 	cl22851
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	429819	148	201	2.94303e-26	102.758	pfam08073	CHDNT	 - 	cl06902
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	specific	428956	1314	1357	4.63233e-17	76.671	pfam06465	DUF1087	N	cl05792
+Q#64 - >sp|Q12873|CHD3_HUMAN Chromodomain-helicase-DNA-binding protein 3 OS=Homo sapiens OX=9606 GN=CHD3 PE=1 SV=3	superfamily	177646	1519	1668	0.000167243	45.1144	cl25519	PHA03418 superfamily	C	 - 
+Q#65 - >sp|Q9BXV9|GON7_HUMAN EKC/KEOPS complex subunit GON7 OS=Homo sapiens OX=9606 GN=GON7 PE=1 SV=2	specific	405966	3	98	1.21906e-36	119.124	pfam15387	DUF4611	 - 	cl21224
+Q#66 - >sp|Q8WV44|TRI41_HUMAN E3 ubiquitin-protein ligase TRIM41 OS=Homo sapiens OX=9606 GN=TRIM41 PE=1 SV=3	specific	240499	432	630	1.12855e-145	420.323	cd13741	SPRY_PRY_TRIM41	 - 	cl02614
+Q#66 - >sp|Q8WV44|TRI41_HUMAN E3 ubiquitin-protein ligase TRIM41 OS=Homo sapiens OX=9606 GN=TRIM41 PE=1 SV=3	superfamily	450175	15	48	1.4514e-18	79.585	cl17238	RING_Ubox superfamily	C	 - 
+Q#66 - >sp|Q8WV44|TRI41_HUMAN E3 ubiquitin-protein ligase TRIM41 OS=Homo sapiens OX=9606 GN=TRIM41 PE=1 SV=3	specific	380820	225	268	7.18054e-17	74.27	cd19762	Bbox2_TRIM7-like	 - 	cl00034
+Q#66 - >sp|Q8WV44|TRI41_HUMAN E3 ubiquitin-protein ligase TRIM41 OS=Homo sapiens OX=9606 GN=TRIM41 PE=1 SV=3	superfamily	426264	263	374	1.10362e-05	46.1109	cl27567	Apolipoprotein superfamily	N	 - 
+Q#66 - >sp|Q8WV44|TRI41_HUMAN E3 ubiquitin-protein ligase TRIM41 OS=Homo sapiens OX=9606 GN=TRIM41 PE=1 SV=3	superfamily	450175	182	211	0.00390915	36.4155	cl17238	RING_Ubox superfamily	N	 - 
+Q#67 - >sp|Q8IVL6|P3H3_HUMAN Prolyl 3-hydroxylase 3 OS=Homo sapiens OX=9606 GN=P3H3 PE=1 SV=1	specific	214780	474	674	7.55223e-30	115.948	smart00702	P4Hc	 - 	cl21496
+Q#68 - >sp|Q9BW71|HIRP3_HUMAN HIRA-interacting protein 3 OS=Homo sapiens OX=9606 GN=HIRIP3 PE=1 SV=3	specific	198150	484	520	2.80121e-07	47.0203	smart01082	CHZ	 - 	cl09864
+Q#69 - >sp|P30291|WEE1_HUMAN Wee1-like protein kinase OS=Homo sapiens OX=9606 GN=WEE1 PE=1 SV=2	specific	271040	293	568	0	618.191	cd14138	PTKc_Wee1a	 - 	cl21453
+Q#69 - >sp|P30291|WEE1_HUMAN Wee1-like protein kinase OS=Homo sapiens OX=9606 GN=WEE1 PE=1 SV=2	superfamily	223039	48	176	0.000151017	45.1621	cl33723	PHA03307 superfamily	C	 - 
+Q#70 - >sp|O75381|PEX14_HUMAN Peroxisomal membrane protein PEX14 OS=Homo sapiens OX=9606 GN=PEX14 PE=1 SV=1	specific	428070	24	68	5.63939e-15	68.3447	pfam04695	Pex14_N	 - 	cl04682
+Q#72 - >sp|Q96GN5|CDA7L_HUMAN Cell division cycle-associated 7-like protein OS=Homo sapiens OX=9606 GN=CDCA7L PE=1 SV=2	specific	431318	345	443	1.41286e-65	205.568	pfam10497	zf-4CXXC_R1	 - 	cl20401
+Q#73 - >sp|Q9Y5B9|SP16H_HUMAN FACT complex subunit SPT16 OS=Homo sapiens OX=9606 GN=SUPT16H PE=1 SV=1	superfamily	227693	5	1001	0	669.411	cl34996	COG5406 superfamily	 - 	 - 
+Q#74 - >sp|Q9H501|ESF1_HUMAN ESF1 homolog OS=Homo sapiens OX=9606 GN=ESF1 PE=1 SV=1	superfamily	227925	301	836	2.5099e-57	207.713	cl35032	COG5638 superfamily	 - 	 - 
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409983	400	478	6.1974e-52	176.044	cd12567	RRM3_RBM19	 - 	cl17169	RNA
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409985	832	910	2.04607e-49	168.763	cd12571	RRM6_RBM19	 - 	cl17169	RNA
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409980	2	77	1.52807e-45	157.474	cd12564	RRM1_RBM19	 - 	cl17169	RNA
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409984	587	658	1.84141e-42	148.696	cd12569	RRM4_RBM19	 - 	cl17169	RNA
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409925	294	365	4.70146e-41	144.867	cd12502	RRM2_RMB19	 - 	cl17169	RNA
+Q#75 - >sp|Q9Y4C8|RBM19_HUMAN Probable RNA-binding protein 19 OS=Homo sapiens OX=9606 GN=RBM19 PE=1 SV=3	specific	409757	730	809	4.01021e-40	142.366	cd12318	RRM5_RBM19_like	 - 	cl17169	RNA
+Q#76 - >sp|Q13206|DDX10_HUMAN Probable ATP-dependent RNA helicase DDX10 OS=Homo sapiens OX=9606 GN=DDX10 PE=1 SV=2	specific	350699	80	277	6.50649e-142	418.232	cd17941	DEADc_DDX10	 - 	cl28899
+Q#76 - >sp|Q13206|DDX10_HUMAN Probable ATP-dependent RNA helicase DDX10 OS=Homo sapiens OX=9606 GN=DDX10 PE=1 SV=2	specific	223587	50	518	2.56795e-113	356.022	COG0513	SrmB	 - 	cl33924
+Q#77 - >sp|Q641Q2|WAC2A_HUMAN WASH complex subunit 2A OS=Homo sapiens OX=9606 GN=WASHC2A PE=1 SV=3	specific	434577	943	1080	9.34894e-76	247.037	pfam15255	CAP-ZIP_m	 - 	cl21113
+Q#77 - >sp|Q641Q2|WAC2A_HUMAN WASH complex subunit 2A OS=Homo sapiens OX=9606 GN=WASHC2A PE=1 SV=3	superfamily	240271	595	816	0.00468174	41.5704	cl36510	PTZ00108 superfamily	N	 - 
+Q#78 - >sp|Q9BZI1|IRX2_HUMAN Iroquois-class homeodomain protein IRX-2 OS=Homo sapiens OX=9606 GN=IRX2 PE=1 SV=2	specific	428673	133	171	2.14337e-17	75.2449	pfam05920	Homeobox_KN	 - 	cl00084
+Q#78 - >sp|Q9BZI1|IRX2_HUMAN Iroquois-class homeodomain protein IRX-2 OS=Homo sapiens OX=9606 GN=IRX2 PE=1 SV=2	specific	214716	322	339	0.00260921	35.2451	smart00548	IRO	 - 	cl11733
+Q#80 - >sp|P25490|TYY1_HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens OX=9606 GN=YY1 PE=1 SV=2	specific	227381	268	407	2.96788e-10	61.6354	COG5048	COG5048	N	cl34881
+Q#81 - >sp|Q6DD87|ZN787_HUMAN Zinc finger protein 787 OS=Homo sapiens OX=9606 GN=ZNF787 PE=1 SV=4	specific	227381	67	200	1.53842e-09	59.3242	COG5048	COG5048	N	cl34881
+Q#82 - >sp|Q9P2H5|UBP35_HUMAN Ubiquitin carboxyl-terminal hydrolase 35 OS=Homo sapiens OX=9606 GN=USP35 PE=1 SV=3	superfamily	351799	442	924	1.56872e-96	308.267	cl02553	Peptidase_C19 superfamily	 - 	 - 
+Q#83 - >sp|P26583|HMGB2_HUMAN High mobility group protein B2 OS=Homo sapiens OX=9606 GN=HMGB2 PE=1 SV=2	specific	438795	93	163	3.00006e-43	139.469	cd21979	HMG-box_HMGB_rpt2	 - 	cl00082
+Q#83 - >sp|P26583|HMGB2_HUMAN High mobility group protein B2 OS=Homo sapiens OX=9606 GN=HMGB2 PE=1 SV=2	specific	438794	8	76	7.18946e-38	125.491	cd21978	HMG-box_HMGB_rpt1	 - 	cl00082
+Q#85 - >sp|Q8IWS0|PHF6_HUMAN PHD finger protein 6 OS=Homo sapiens OX=9606 GN=PHF6 PE=1 SV=1	specific	277180	17	131	1.44418e-75	228.692	cd15710	ePHD1_PHF6	 - 	cl22851
+Q#85 - >sp|Q8IWS0|PHF6_HUMAN PHD finger protein 6 OS=Homo sapiens OX=9606 GN=PHF6 PE=1 SV=1	specific	277181	212	329	3.12812e-75	228.045	cd15711	ePHD2_PHF6	 - 	cl22851
+Q#86 - >sp|Q9H4L4|SENP3_HUMAN Sentrin-specific protease 3 OS=Homo sapiens OX=9606 GN=SENP3 PE=1 SV=2	specific	397169	400	572	1.63403e-48	167.248	pfam02902	Peptidase_C48	 - 	cl23802
+Q#86 - >sp|Q9H4L4|SENP3_HUMAN Sentrin-specific protease 3 OS=Homo sapiens OX=9606 GN=SENP3 PE=1 SV=2	superfamily	437554	291	388	1.59294e-09	60.6193	cl45124	SENP3_5_N superfamily	N	 - 
+Q#87 - >sp|Q8WVC0|LEO1_HUMAN RNA polymerase-associated protein LEO1 OS=Homo sapiens OX=9606 GN=LEO1 PE=1 SV=1	specific	427645	374	536	1.65664e-64	210.122	pfam04004	Leo1	 - 	cl04368
+Q#87 - >sp|Q8WVC0|LEO1_HUMAN RNA polymerase-associated protein LEO1 OS=Homo sapiens OX=9606 GN=LEO1 PE=1 SV=1	superfamily	411231	9	361	2.01695e-15	80.3551	cl41352	MSCRAMM_ClfA superfamily	N	 - 
+Q#88 - >sp|O43196|MSH5_HUMAN MutS protein homolog 5 OS=Homo sapiens OX=9606 GN=MSH5 PE=1 SV=1	specific	213248	557	763	9.04781e-112	339.663	cd03281	ABC_MSH5_euk	 - 	cl38936
+Q#88 - >sp|O43196|MSH5_HUMAN MutS protein homolog 5 OS=Homo sapiens OX=9606 GN=MSH5 PE=1 SV=1	specific	223327	129	813	4.47515e-101	332.327	COG0249	MutS	 - 	cl33816
+Q#89 - >sp|Q9H116|GZF1_HUMAN GDNF-inducible zinc finger protein 1 OS=Homo sapiens OX=9606 GN=GZF1 PE=1 SV=1	specific	349520	6	133	1.49197e-78	246.689	cd18211	BTB_POZ_ZBTB23_GZF1	 - 	cl38908
+Q#89 - >sp|Q9H116|GZF1_HUMAN GDNF-inducible zinc finger protein 1 OS=Homo sapiens OX=9606 GN=GZF1 PE=1 SV=1	specific	227381	405	593	3.06501e-12	69.3394	COG5048	COG5048	N	cl34881
+Q#90 - >sp|Q9Y3T9|NOC2L_HUMAN Nucleolar complex protein 2 homolog OS=Homo sapiens OX=9606 GN=NOC2L PE=1 SV=4	specific	427459	327	622	5.67613e-172	495.101	pfam03715	Noc2	 - 	cl19898
+Q#91 - >sp|Q96HJ3|CCD34_HUMAN Coiled-coil domain-containing protein 34 OS=Homo sapiens OX=9606 GN=CCDC34 PE=1 SV=2	specific	433570	102	321	2.67885e-41	144.468	pfam13904	DUF4207	 - 	cl37875
+Q#92 - >sp|Q9Y5J1|UTP18_HUMAN U3 small nucleolar RNA-associated protein 18 homolog OS=Homo sapiens OX=9606 GN=UTP18 PE=1 SV=3	specific	225201	270	554	8.04355e-20	92.4591	COG2319	WD40	N	cl43672
+Q#93 - >sp|P19338|NUCL_HUMAN Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3	specific	409840	572	649	1.63211e-40	142.746	cd12406	RRM4_NCL	 - 	cl17169	RNA
+Q#93 - >sp|P19338|NUCL_HUMAN Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3	specific	409838	390	465	6.77646e-38	135.251	cd12404	RRM2_NCL	 - 	cl17169	RNA
+Q#93 - >sp|P19338|NUCL_HUMAN Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3	specific	409839	485	557	3.59578e-35	127.297	cd12405	RRM3_NCL	 - 	cl17169	RNA
+Q#93 - >sp|P19338|NUCL_HUMAN Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3	specific	409837	307	381	1.24105e-34	125.993	cd12403	RRM1_NCL	 - 	cl17169	RNA
+Q#94 - >sp|Q9NQV6|PRD10_HUMAN PR domain zinc finger protein 10 OS=Homo sapiens OX=9606 GN=PRDM10 PE=1 SV=3	specific	380971	203	334	1.51986e-79	256.124	cd19194	PR-SET_PRDM10	 - 	cl40432
+Q#94 - >sp|Q9NQV6|PRD10_HUMAN PR domain zinc finger protein 10 OS=Homo sapiens OX=9606 GN=PRDM10 PE=1 SV=3	specific	435482	409	510	2.12537e-37	136.59	pfam16638	Tristanin_u2	N	cl25012
+Q#94 - >sp|Q9NQV6|PRD10_HUMAN PR domain zinc finger protein 10 OS=Homo sapiens OX=9606 GN=PRDM10 PE=1 SV=3	superfamily	425404	844	1013	4.61465e-05	47.2285	cl41773	SP1-4_N superfamily	NC	 - 
+Q#94 - >sp|Q9NQV6|PRD10_HUMAN PR domain zinc finger protein 10 OS=Homo sapiens OX=9606 GN=PRDM10 PE=1 SV=3	superfamily	375871	173	200	0.000271951	39.1964	cl39781	zf_PR_Knuckle superfamily	N	 - 
+Q#94 - >sp|Q9NQV6|PRD10_HUMAN PR domain zinc finger protein 10 OS=Homo sapiens OX=9606 GN=PRDM10 PE=1 SV=3	specific	395048	644	666	0.000489324	38.4353	pfam00096	zf-C2H2	 - 	cl23491
+Q#95 - >sp|Q8N594|MPND_HUMAN MPN domain-containing protein OS=Homo sapiens OX=9606 GN=MPND PE=1 SV=1	specific	163698	266	443	6.18072e-85	259.122	cd08067	MPN_2A_DUB	 - 	cl13996
+Q#95 - >sp|Q8N594|MPND_HUMAN MPN domain-containing protein OS=Homo sapiens OX=9606 GN=MPND PE=1 SV=1	specific	436715	70	164	5.33526e-34	123.569	pfam18755	RAMA	 - 	cl16759
+Q#96 - >sp|Q8IY81|SPB1_HUMAN pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Homo sapiens OX=9606 GN=FTSJ3 PE=1 SV=2	specific	429656	649	834	8.58075e-85	269.086	pfam07780	Spb1_C	 - 	cl06696
+Q#96 - >sp|Q8IY81|SPB1_HUMAN pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Homo sapiens OX=9606 GN=FTSJ3 PE=1 SV=2	specific	223370	8	203	7.90914e-75	242.514	COG0293	RlmE	 - 	cl41855
+Q#96 - >sp|Q8IY81|SPB1_HUMAN pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Homo sapiens OX=9606 GN=FTSJ3 PE=1 SV=2	specific	432138	231	400	3.16213e-39	142.304	pfam11861	DUF3381	 - 	cl13325
+Q#97 - >sp|Q70EK9|UBP51_HUMAN Ubiquitin carboxyl-terminal hydrolase 51 OS=Homo sapiens OX=9606 GN=USP51 PE=1 SV=1	specific	239125	363	704	1.25767e-155	453.368	cd02660	Peptidase_C19D	 - 	cl02553
+Q#97 - >sp|Q70EK9|UBP51_HUMAN Ubiquitin carboxyl-terminal hydrolase 51 OS=Homo sapiens OX=9606 GN=USP51 PE=1 SV=1	specific	426622	236	296	2.01498e-12	62.3274	pfam02148	zf-UBP	 - 	cl09957
+Q#98 - >sp|Q96BF6|NACC2_HUMAN Nucleus accumbens-associated protein 2 OS=Homo sapiens OX=9606 GN=NACC2 PE=1 SV=1	specific	349598	1	131	9.31622e-100	298.482	cd18289	BTB_POZ_BTBD14A_NAC2	 - 	cl38908
+Q#98 - >sp|Q96BF6|NACC2_HUMAN Nucleus accumbens-associated protein 2 OS=Homo sapiens OX=9606 GN=NACC2 PE=1 SV=1	specific	214981	373	450	1.96732e-18	79.7153	smart01025	BEN	 - 	cl11158
+Q#99 - >sp|Q96PN7|TREF1_HUMAN Transcriptional-regulating factor 1 OS=Homo sapiens OX=9606 GN=TRERF1 PE=1 SV=1	specific	426267	781	835	4.15782e-12	61.8502	pfam01448	ELM2	 - 	cl03218
+Q#99 - >sp|Q96PN7|TREF1_HUMAN Transcriptional-regulating factor 1 OS=Homo sapiens OX=9606 GN=TRERF1 PE=1 SV=1	superfamily	451276	889	933	8.48685e-11	58.0095	cl21498	SANT superfamily	 - 	 - 
+Q#99 - >sp|Q96PN7|TREF1_HUMAN Transcriptional-regulating factor 1 OS=Homo sapiens OX=9606 GN=TRERF1 PE=1 SV=1	specific	433576	514	534	0.000850659	37.6091	pfam13912	zf-C2H2_6	 - 	cl16471
+Q#99 - >sp|Q96PN7|TREF1_HUMAN Transcriptional-regulating factor 1 OS=Homo sapiens OX=9606 GN=TRERF1 PE=1 SV=1	specific	433576	1085	1108	0.00460885	35.6831	pfam13912	zf-C2H2_6	 - 	cl16471
+Q#100 - >sp|Q8NEJ9|NGDN_HUMAN Neuroguidin OS=Homo sapiens OX=9606 GN=NGDN PE=1 SV=1	specific	427642	18	98	7.20231e-13	63.0479	pfam04000	Sas10_Utp3	 - 	cl09556
+Q#101 - >sp|Q9NQZ2|SAS10_HUMAN Something about silencing protein 10 OS=Homo sapiens OX=9606 GN=UTP3 PE=1 SV=1	specific	430564	408	478	2.0073e-28	107.238	pfam09368	Sas10	 - 	cl09622
+Q#101 - >sp|Q9NQZ2|SAS10_HUMAN Something about silencing protein 10 OS=Homo sapiens OX=9606 GN=UTP3 PE=1 SV=1	specific	427642	230	310	3.86047e-13	64.5887	pfam04000	Sas10_Utp3	 - 	cl09556
+Q#102 - >sp|Q9H2Y7|ZN106_HUMAN Zinc finger protein 106 OS=Homo sapiens OX=9606 GN=ZNF106 PE=1 SV=1	specific	238121	1525	1802	3.63295e-45	165.586	cd00200	WD40	 - 	cl29593
+Q#103 - >sp|Q9UL54|TAOK2_HUMAN Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2	specific	270804	12	319	0	649.392	cd06634	STKc_TAO2	 - 	cl21453
+Q#103 - >sp|Q9UL54|TAOK2_HUMAN Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2	superfamily	224117	472	747	1.38305e-11	69.358	cl34174	Smc superfamily	C	 - 
+Q#103 - >sp|Q9UL54|TAOK2_HUMAN Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2	superfamily	433809	985	1067	0.00019114	42.1885	cl16745	DUF4345 superfamily	C	 - 
+Q#104 - >sp|Q9UNX9|KCJ14_HUMAN ATP-sensitive inward rectifier potassium channel 14 OS=Homo sapiens OX=9606 GN=KCNJ14 PE=1 SV=1	specific	435949	198	371	1.07875e-109	320.298	pfam17655	IRK_C	 - 	cl39196
+Q#104 - >sp|Q9UNX9|KCJ14_HUMAN ATP-sensitive inward rectifier potassium channel 14 OS=Homo sapiens OX=9606 GN=KCNJ14 PE=1 SV=1	specific	425984	53	191	7.95196e-75	230.143	pfam01007	IRK	 - 	cl21560
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	superfamily	215601	967	1566	2.7058e-154	508.957	cl33647	PLN03142 superfamily	C	 - 
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	specific	349310	879	936	1.32049e-34	127.405	cd18663	CD2_tandem_CHD5-9_like	 - 	cl28914
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	specific	349315	796	861	2.71528e-24	98.1776	cd18668	CD1_tandem_CHD5-9_like	 - 	cl28914
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	specific	197800	2642	2686	6.30552e-19	82.0102	smart00592	BRK	 - 	cl02688
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	specific	429518	2563	2606	1.0816e-14	70.2377	pfam07533	BRK	 - 	cl02688
+Q#105 - >sp|Q9P2D1|CHD7_HUMAN Chromodomain-helicase-DNA-binding protein 7 OS=Homo sapiens OX=9606 GN=CHD7 PE=1 SV=3	superfamily	312941	204	576	9.73092e-12	70.8076	cl26621	Med15 superfamily	C	 - 
+Q#106 - >sp|Q14137|BOP1_HUMAN Ribosome biogenesis protein BOP1 OS=Homo sapiens OX=9606 GN=BOP1 PE=1 SV=2	specific	429837	144	402	2.51297e-167	481.65	pfam08145	BOP1NT	 - 	cl19763
+Q#106 - >sp|Q14137|BOP1_HUMAN Ribosome biogenesis protein BOP1 OS=Homo sapiens OX=9606 GN=BOP1 PE=1 SV=2	superfamily	453027	408	745	3.70427e-34	132.074	cl29593	WD40 superfamily	 - 	 - 
+Q#107 - >sp|Q9Y3S2|ZN330_HUMAN Zinc finger protein 330 OS=Homo sapiens OX=9606 GN=ZNF330 PE=1 SV=1	specific	368953	1	268	3.02692e-167	467.004	pfam06524	NOA36	 - 	cl20043
+Q#108 - >sp|O95602|RPA1_HUMAN DNA-directed RNA polymerase I subunit RPA1 OS=Homo sapiens OX=9606 GN=POLR1A PE=1 SV=2	specific	259844	16	1004	0	1306.4	cd01435	RNAP_I_RPA1_N	 - 	cl19114
+Q#108 - >sp|O95602|RPA1_HUMAN DNA-directed RNA polymerase I subunit RPA1 OS=Homo sapiens OX=9606 GN=POLR1A PE=1 SV=2	specific	398596	958	1670	4.28677e-170	524.611	pfam04998	RNA_pol_Rpb1_5	 - 	cl29011
+Q#109 - >sp|Q8IX15|HOMEZ_HUMAN Homeobox and leucine zipper protein Homez OS=Homo sapiens OX=9606 GN=HOMEZ PE=1 SV=2	superfamily	431938	466	509	1.28551e-11	59.8667	cl13082	Homez superfamily	N	 - 
+Q#109 - >sp|Q8IX15|HOMEZ_HUMAN Homeobox and leucine zipper protein Homez OS=Homo sapiens OX=9606 GN=HOMEZ PE=1 SV=2	specific	238039	358	415	9.16326e-09	51.4753	cd00086	homeodomain	 - 	cl00084
+Q#109 - >sp|Q8IX15|HOMEZ_HUMAN Homeobox and leucine zipper protein Homez OS=Homo sapiens OX=9606 GN=HOMEZ PE=1 SV=2	specific	238039	65	114	4.17548e-05	41.4601	cd00086	homeodomain	 - 	cl00084
+Q#110 - >sp|Q53HL2|BOREA_HUMAN Borealin OS=Homo sapiens OX=9606 GN=CDCA8 PE=1 SV=2	specific	431330	163	275	1.01567e-41	139.42	pfam10512	Borealin	 - 	cl11149
+Q#110 - >sp|Q53HL2|BOREA_HUMAN Borealin OS=Homo sapiens OX=9606 GN=CDCA8 PE=1 SV=2	specific	431291	20	76	2.16024e-18	76.8184	pfam10444	Nbl1_Borealin_N	 - 	cl11095
+Q#111 - >sp|Q8TDD1|DDX54_HUMAN ATP-dependent RNA helicase DDX54 OS=Homo sapiens OX=9606 GN=DDX54 PE=1 SV=2	specific	350717	96	300	4.85218e-147	431.728	cd17959	DEADc_DDX54	 - 	cl28899
+Q#111 - >sp|Q8TDD1|DDX54_HUMAN ATP-dependent RNA helicase DDX54 OS=Homo sapiens OX=9606 GN=DDX54 PE=1 SV=2	superfamily	235307	98	524	7.88369e-55	199.792	cl35267	PRK04537 superfamily	C	 - 
+Q#111 - >sp|Q8TDD1|DDX54_HUMAN ATP-dependent RNA helicase DDX54 OS=Homo sapiens OX=9606 GN=DDX54 PE=1 SV=2	specific	429839	714	774	5.94741e-26	101.156	pfam08147	DBP10CT	 - 	cl06955
+Q#112 - >sp|Q12789|TF3C1_HUMAN General transcription factor 3C polypeptide 1 OS=Homo sapiens OX=9606 GN=GTF3C1 PE=1 SV=4	specific	367858	174	250	1.21714e-24	98.8614	pfam04182	B-block_TFIIIC	 - 	cl21459
+Q#112 - >sp|Q12789|TF3C1_HUMAN General transcription factor 3C polypeptide 1 OS=Homo sapiens OX=9606 GN=GTF3C1 PE=1 SV=4	specific	320085	611	707	2.4261e-23	96.1137	cd16169	Tau138_eWH	 - 	cl28879
+Q#112 - >sp|Q12789|TF3C1_HUMAN General transcription factor 3C polypeptide 1 OS=Homo sapiens OX=9606 GN=GTF3C1 PE=1 SV=4	superfamily	236090	1762	1956	2.77405e-05	49.2141	cl35613	PRK07764 superfamily	N	 - 
+Q#114 - >sp|Q13428|TCOF_HUMAN Treacle protein OS=Homo sapiens OX=9606 GN=TCOF1 PE=1 SV=3	specific	427362	388	904	9.97379e-56	202.187	pfam03546	Treacle	 - 	cl25490
+Q#114 - >sp|Q13428|TCOF_HUMAN Treacle protein OS=Homo sapiens OX=9606 GN=TCOF1 PE=1 SV=3	superfamily	223021	157	535	5.71512e-06	51.4777	cl33720	PHA03247 superfamily	N	 - 
+Q#114 - >sp|Q13428|TCOF_HUMAN Treacle protein OS=Homo sapiens OX=9606 GN=TCOF1 PE=1 SV=3	specific	128913	6	37	0.00274332	36.6436	smart00667	LisH	 - 	cl26729
+Q#115 - >sp|Q92794|KAT6A_HUMAN Histone acetyltransferase KAT6A OS=Homo sapiens OX=9606 GN=KAT6A PE=1 SV=2	superfamily	215056	504	778	2.44882e-129	413.765	cl33410	PLN00104 superfamily	N	 - 
+Q#115 - >sp|Q92794|KAT6A_HUMAN Histone acetyltransferase KAT6A OS=Homo sapiens OX=9606 GN=KAT6A PE=1 SV=2	specific	277090	205	262	4.51546e-35	127.99	cd15618	PHD1_MOZ_MORF	 - 	cl22851
+Q#115 - >sp|Q92794|KAT6A_HUMAN Histone acetyltransferase KAT6A OS=Homo sapiens OX=9606 GN=KAT6A PE=1 SV=2	specific	277002	264	310	1.09678e-28	109.39	cd15527	PHD2_KAT6A_6B	 - 	cl22851
+Q#115 - >sp|Q92794|KAT6A_HUMAN Histone acetyltransferase KAT6A OS=Homo sapiens OX=9606 GN=KAT6A PE=1 SV=2	specific	197772	85	162	2.24454e-08	52.1946	smart00526	H15	 - 	cl00073
+Q#116 - >sp|Q14692|BMS1_HUMAN Ribosome biogenesis protein BMS1 homolog OS=Homo sapiens OX=9606 GN=BMS1 PE=1 SV=1	superfamily	227519	41	1271	0	810.123	cl34937	BMS1 superfamily	 - 	 - 
+Q#117 - >sp|Q15270|NKX11_HUMAN NK1 transcription factor-related protein 1 OS=Homo sapiens OX=9606 GN=NKX1-1 PE=2 SV=3	specific	425441	300	352	3.82399e-24	94.4978	pfam00046	Homeobox	 - 	cl00084
+Q#118 - >sp|Q969S3|ZN622_HUMAN Cytoplasmic 60S subunit biogenesis factor ZNF622 OS=Homo sapiens OX=9606 GN=ZNF622 PE=1 SV=1	specific	432762	254	353	3.59762e-41	142.424	pfam12756	zf-C2H2_2	 - 	cl20464
+Q#118 - >sp|Q969S3|ZN622_HUMAN Cytoplasmic 60S subunit biogenesis factor ZNF622 OS=Homo sapiens OX=9606 GN=ZNF622 PE=1 SV=1	specific	432381	68	91	7.08621e-05	39.4608	pfam12171	zf-C2H2_jaz	 - 	cl44614
+Q#118 - >sp|Q969S3|ZN622_HUMAN Cytoplasmic 60S subunit biogenesis factor ZNF622 OS=Homo sapiens OX=9606 GN=ZNF622 PE=1 SV=1	superfamily	185627	6	49	0.000720108	41.5575	cl29187	PTZ00448 superfamily	N	 - 
+Q#119 - >sp|P45379|TNNT2_HUMAN Troponin T, cardiac muscle OS=Homo sapiens OX=9606 GN=TNNT2 PE=1 SV=3	specific	425977	103	241	7.06075e-15	69.902	pfam00992	Troponin	 - 	cl26609
+Q#121 - >sp|Q5C9Z4|NOM1_HUMAN Nucleolar MIF4G domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NOM1 PE=1 SV=1	specific	214713	363	559	4.54087e-21	92.0383	smart00543	MIF4G	 - 	cl02652
+Q#121 - >sp|Q5C9Z4|NOM1_HUMAN Nucleolar MIF4G domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NOM1 PE=1 SV=1	superfamily	413424	655	761	3.6792e-18	80.7825	cl02653	MA3 superfamily	 - 	 - 
+Q#122 - >sp|P54257|HAP1_HUMAN Huntingtin-associated protein 1 OS=Homo sapiens OX=9606 GN=HAP1 PE=1 SV=3	specific	428156	107	460	8.28348e-119	357.012	pfam04849	HAP1_N	 - 	cl25919
+Q#123 - >sp|Q9BU19|ZN692_HUMAN Zinc finger protein 692 OS=Homo sapiens OX=9606 GN=ZNF692 PE=1 SV=1	superfamily	435011	329	407	3.29365e-05	42.7337	cl25789	zf-C2H2_8 superfamily	 - 	 - 
+Q#123 - >sp|Q9BU19|ZN692_HUMAN Zinc finger protein 692 OS=Homo sapiens OX=9606 GN=ZNF692 PE=1 SV=1	superfamily	227561	358	485	0.0013799	41.1595	cl28715	COG5236 superfamily	NC	 - 
+Q#123 - >sp|Q9BU19|ZN692_HUMAN Zinc finger protein 692 OS=Homo sapiens OX=9606 GN=ZNF692 PE=1 SV=1	superfamily	237030	208	325	0.00702479	39.1034	cl36091	kgd superfamily	C	 - 
+Q#124 - >sp|Q9BXY0|MAK16_HUMAN Protein MAK16 homolog OS=Homo sapiens OX=9606 GN=MAK16 PE=1 SV=2	specific	215038	1	196	2.5139e-94	278.581	PLN00040	PLN00040	 - 	cl27104
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	432199	507	667	8.46819e-71	234.266	pfam11933	Na_trans_cytopl	 - 	cl13384
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	425730	1204	1479	1.37055e-67	228.305	pfam00520	Ion_trans	 - 	cl37996
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	428983	953	1200	2.89636e-67	225.686	pfam06512	Na_trans_assoc	 - 	cl05828
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	425730	1528	1782	3.34517e-59	204.038	pfam00520	Ion_trans	 - 	cl37996
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	425730	716	927	1.80961e-56	196.334	pfam00520	Ion_trans	 - 	cl37996
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	425730	130	423	2.32889e-53	187.474	pfam00520	Ion_trans	 - 	cl37996
+Q#125 - >sp|Q14524|SCN5A_HUMAN Sodium channel protein type 5 subunit alpha OS=Homo sapiens OX=9606 GN=SCN5A PE=1 SV=2	specific	240441	1471	1523	7.04991e-33	121.518	cd13433	Na_channel_gate	 - 	cl18913
+Q#126 - >sp|O75607|NPM3_HUMAN Nucleoplasmin-3 OS=Homo sapiens OX=9606 GN=NPM3 PE=1 SV=3	specific	427119	38	139	2.82418e-47	149.284	pfam03066	Nucleoplasmin	 - 	cl03870
+Q#127 - >sp|Q92692|NECT2_HUMAN Nectin-2 OS=Homo sapiens OX=9606 GN=NECTIN2 PE=1 SV=1	specific	409581	34	158	4.69532e-64	204.35	cd20989	IgV_1_Nectin-2_NecL-5_like_CD112_CD155	 - 	cl11960
+Q#127 - >sp|Q92692|NECT2_HUMAN Nectin-2 OS=Homo sapiens OX=9606 GN=NECTIN2 PE=1 SV=1	specific	409524	261	346	2.21658e-56	183.148	cd20930	Ig3_Nectin-5_like	 - 	cl11960
+Q#127 - >sp|Q92692|NECT2_HUMAN Nectin-2 OS=Homo sapiens OX=9606 GN=NECTIN2 PE=1 SV=1	specific	409500	162	258	6.4867e-50	166.423	cd07703	IgC1_2_Nectin-2_Necl-5_like	 - 	cl11960
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	452890	460	697	7.72678e-163	493.754	cl28899	DEAD-like_helicase_N superfamily	 - 	 - 
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	215601	464	1000	2.57272e-161	519.357	cl33647	PLN03142 superfamily	C	 - 
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	specific	349313	276	354	9.08712e-46	159.379	cd18666	CD1_tandem_CHD1-2_like	 - 	cl28914
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	specific	349308	387	443	1.83008e-34	126.261	cd18661	CD2_tandem_CHD1-2_like	 - 	cl28914
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	454307	1124	1210	1.19302e-33	125.13	cl39715	CDH1_2_SANT_HL1 superfamily	 - 	 - 
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	specific	433572	1408	1498	5.77322e-30	114.66	pfam13907	DUF4208	 - 	cl16467
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	439608	1631	1662	0.000245927	41.1413	cl45756	HisXaaSer_A3 superfamily	N	 - 
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	273727	1600	1709	0.000510332	44.499	cl36941	U2AF_lg superfamily	C	 - 
+Q#128 - >sp|O14646|CHD1_HUMAN Chromodomain-helicase-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=CHD1 PE=1 SV=2	superfamily	273727	1552	1646	0.0027988	42.1878	cl36941	U2AF_lg superfamily	C	 - 
+Q#129 - >sp|Q8IZL8|PELP1_HUMAN Proline-, glutamic acid- and leucine-rich protein 1 OS=Homo sapiens OX=9606 GN=PELP1 PE=1 SV=2	specific	429855	60	226	4.37853e-26	106.11	pfam08167	RIX1	 - 	cl20353
+Q#129 - >sp|Q8IZL8|PELP1_HUMAN Proline-, glutamic acid- and leucine-rich protein 1 OS=Homo sapiens OX=9606 GN=PELP1 PE=1 SV=2	specific	149302	423	489	6.70104e-18	78.4808	pfam08166	NUC202	 - 	cl06974
+Q#129 - >sp|Q8IZL8|PELP1_HUMAN Proline-, glutamic acid- and leucine-rich protein 1 OS=Homo sapiens OX=9606 GN=PELP1 PE=1 SV=2	superfamily	149302	569	637	8.16305e-06	44.1981	cl06974	NUC202 superfamily	C	 - 
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	350820	731	981	1.39288e-173	521.527	cd18062	DEXHc_SMARCA4	 - 	cl28899
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	superfamily	215601	750	1232	2.60193e-162	520.898	cl33647	PLN03142 superfamily	C	 - 
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	99947	1458	1564	3.19919e-61	204.584	cd05516	Bromo_SNF2L2	 - 	cl02556
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	214727	460	532	4.15546e-23	94.3866	smart00573	HSA	 - 	cl02676
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	434073	1322	1389	4.58902e-23	93.8622	pfam14619	SnAC	 - 	cl20592
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	197800	612	656	1.50483e-16	74.6914	smart00592	BRK	 - 	cl02688
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	specific	430282	171	205	4.88154e-14	67.3723	pfam08880	QLQ	 - 	cl07469
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	superfamily	312941	42	222	7.46771e-08	57.3256	cl26621	Med15 superfamily	C	 - 
+Q#130 - >sp|P51532|SMCA4_HUMAN Transcription activator BRG1 OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2	superfamily	224117	370	552	5.84765e-05	48.172	cl34174	Smc superfamily	NC	 - 
+Q#131 - >sp|Q96JP5|ZFP91_HUMAN E3 ubiquitin-protein ligase ZFP91 OS=Homo sapiens OX=9606 GN=ZFP91 PE=1 SV=1	superfamily	435011	313	390	0.000246458	40.4225	cl25789	zf-C2H2_8 superfamily	 - 	 - 
+Q#131 - >sp|Q96JP5|ZFP91_HUMAN E3 ubiquitin-protein ligase ZFP91 OS=Homo sapiens OX=9606 GN=ZFP91 PE=1 SV=1	specific	395048	401	422	0.00645986	34.1981	pfam00096	zf-C2H2	 - 	cl23491

@@ -1,0 +1,3 @@
+cl19519	FKBP_C Superfamily	NO
+cl13566	Med12-LCEWAV	NO
+cl00120	PP2Cc Superfamily	NO
