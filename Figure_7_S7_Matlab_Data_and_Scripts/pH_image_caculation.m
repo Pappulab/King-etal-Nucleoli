@@ -1,5 +1,5 @@
-
-fileFolder = 'F:\OneDrive - Washington University in St. Louis\github\SNARF\Test_Data_invtiro_pH\tiff file\';
+scriptPath = mfilename('fullpath');
+[fileFolder, ~, ~] = fileparts(scriptPath);
 scanning_SNARF_name = 'NCL_2uM_1ngPre_Lamda_Frame1.tif';
 
 %% read image
